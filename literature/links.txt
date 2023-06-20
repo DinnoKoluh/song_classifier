@@ -1,0 +1,6 @@
+Dataset:
+https://www.kaggle.com/datasets/mateibejan/multilingual-lyrics-for-genre-classification
+Project:
+https://github.com/dipayandutta93/Music-Genre-Classification-using-lyrics
+About attention:
+https://towardsdatascience.com/attaining-attention-in-deep-learning-a712f93bdb1e

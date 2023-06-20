@@ -1,0 +1,6 @@
+*.vscode
+*rnn_ex
+*venv
+*examples
+*tf_intro
+*data
