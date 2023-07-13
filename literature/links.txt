@@ -1,6 +1,11 @@
 Dataset:
 https://www.kaggle.com/datasets/mateibejan/multilingual-lyrics-for-genre-classification
-Project:
+
+Projects on GitHub:
 https://github.com/dipayandutta93/Music-Genre-Classification-using-lyrics
+https://github.com/theartificialguy/NLP-with-Deep-Learning/blob/master/BERT/Multi-Class%20classification%20TF-BERT/multi_class.ipynb
+https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel/blob/master/NLP/Multi-class-text-classifica_fine-tuning-distilbert.ipynb
+https://github.com/jamescalam/transformers/blob/main/course/project_build_tf_sentiment_model/02_build_and_train.ipynb
+
 About attention:
 https://towardsdatascience.com/attaining-attention-in-deep-learning-a712f93bdb1e
